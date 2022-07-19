@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">AppTest0</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">HandBook</string>
+    <string name="nav_header_subtitle"></string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="fish">Computers</string>
+    <string name="naj">Publications</string>
+    <string name="snasti">Ships</string>
+    <string name="prikorm">Products</string>
+    <string name="other">Other</string>
+    <string name="history">Share</string>
+    <string name="advice">About program </string>
+
+    <string name="home_second">Home Second</string>
+
+    <string name="fish_1">… fish are gill-bearing aquatic craniate animals that lack limbs with digits. They form a sister group to the tunicates, together forming the olfactores. Included in this definition are the living hagfish, lampreys, and cartilaginous and bony fish as well as various extinct related groups. Tetrapods emerged within lobe-finned fishes, so cladistically they are fish as well. However, traditionally fish are rendered paraphyletic by excluding the tetrapods (i.e., the amphibians, reptiles, birds and mammals which all descended from within the same ancestry). Because in this manner the term "fish" is defined negatively as a paraphyletic group, it is not considered a formal taxonomic grouping in systematic biology, unless it is used in the cladistic sense, including tetrapods. The traditional term pisces (also ichthyes) is considered a typological, but not a phylogenetic classification.
+
+The earliest organisms that can be classified as fish were soft-bodied chordates that first appeared during the Cambrian period. Although they lacked a true spine, they possessed notochords which allowed them to be more agile than their invertebrate counterparts. Fish would continue to evolve through the Paleozoic era, diversifying into a wide variety of forms. Many fish of the Paleozoic developed external armor that protected them from predators. The first fish with jaws appeared in the Silurian period, after which many (such as sharks) became formidable marine predators rather than just the prey of arthropods.
+
+Most fish are ectothermic ("cold-blooded"), allowing their body temperatures to vary as ambient temperatures change, though some of the large active swimmers like white shark and tuna can hold a higher core temperature.
+    Fish can communicate in their underwater environments through the use of acoustic communication. Acoustic communication in fish involves the transmission of acoustic signals from one individual of a species to another. The production of sounds as a means of communication among fish is most often used in the context of feeding, aggression or courtship behaviour.[5] The sounds emitted by fish can vary depending on the species and stimulus involved. They can produce either stridulatory sounds by moving components of the skeletal system, or can produce non-stridulatory sounds by manipulating specialized organs such as the swimbladder.[6]
+
+Fish are abundant in most bodies of water. They can be found in nearly all aquatic environments, from high mountain streams (e.g., char and gudgeon) to the abyssal and even hadal depths of the deepest oceans (e.g., cusk-eels and snailfish), although no species has yet been documented in the deepest 25% of the ocean.[7] With 34,300 described species, fish exhibit greater species diversity than any other group of vertebrates.[8]
+
+Fish are an important resource for humans worldwide, especially as food. Commercial and subsistence fishers hunt fish in wild fisheries (see fishing) or farm them in ponds or in cages in the ocean (see aquaculture). They are also caught by recreational fishers, kept as pets, raised by fishkeepers, and exhibited in public aquaria. Fish have had a role in culture through the ages, serving as deities, religious symbols, and as the subjects of art, books and movies.</string>
+
+    <string name="fish_2">Example2</string>
+    <string name="fish_3">Example3</string>
+    <string name="fish_4">Example4</string>
+    <string name="fish_5">Example5</string>
+
+    <string name="naj_1">Наживка1</string>
+    <string name="naj_2">Наживка2</string>
+
+    <string name="button_start">Start</string>
+    <string name="logo_x">logo</string>
+    
+    <string name="main_text_size">Text Size</string>
+
+    <string name="sinus">
+        Синусоида — плоская кривая, задаваемая в прямоугольных координатах уравнением \n
+        y = a + bsin(cx+d) \n
+        a характеризует сдвиг графика по оси Oy. Чем больше a, тем выше поднимается график; \n
+        b характеризует растяжение графика по оси Oy. Чем больше увеличивается b, тем сильнее возрастает амплитуда колебаний; \n
+        с характеризует растяжение графика по оси Ox. При увеличении c частота колебаний повышается ; \n
+        d характеризует сдвиг графика по оси Ox. При увеличении d график двигается в отрицательном направлении оси абсцисс. \n
+        Синусоидальное изменение какой-либо величины называется гармоническим колебанием. Примерами могут являться любые колебательные процессы начиная от качания маятника и кончая звуковыми волнами (гармонические колебания воздуха) — колебания напряжения в электрической сети переменного тока, изменение тока и напряжения в колебательном контуре и др. Также синусоида — проекция на плоскость винтовой линии, например, скрученного провода; рулон бумаги разрезанный наискось (косо усечённый цилиндр) и развернутый — край бумаги оказывается разрезанным по синусоиде. \n
+        Синусоида была впервые рассмотрена Робервалем в 1634 году. При вычислении площади под графиком циклоиды он рассмотрел вспомогательную кривую, образуемую проекциями точки окружности, катящейся по прямой, на вертикальный диаметр этой окружности. Роберваль назвал эту кривую «спутницей циклоиды»; позднее Оноре Фабри стал называть её «линией синусов». \n
+        Синусоида может пересекать прямую в бесконечном числе точек.
+    </string>
+
+</resources>

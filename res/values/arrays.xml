@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="fish_array">
+        <item>example text0</item>
+        <item>example text0</item>
+        <item>example text0</item>
+        <item>example text0 </item>
+        <item>example text0</item>
+    </string-array>
+
+ <string-array name="naj_array">
+     <item>The Busy Executives Database Guide</item>
+     <item>Cooking with Computers: Surreptitious Balance Sheets</item>
+     <item>You Can Combat Computer Stress!</item>
+     <item>Straight Talk About Computers</item>
+     <item>Silicon Valley Gastronomic Treats</item>
+     <item>The Gourmet Microwave</item>
+     <item>The Psychology of Computer Cooking</item>
+     <item>But Is It User Friendly?</item>
+     <item>Secrets of Silicon Valley</item>
+     <item>Net Etiquette</item>
+     <item>Computer Phobic AND Non-Phobic Individuals: Behavior Variations</item>
+     <item>Life Prolonged Data Deprivation: Four Case Studies Fear</item>
+     <item>Emotional Security: A New Algorithm</item>
+     <item>Sushi, Anyone?</item>
+     <item>Fifty Years in Buckingham Palace Kitchens</item>
+ </string-array>
+    <string-array name="snasti_array">
+        <item>example text2</item>
+        <item> example text2</item>
+    </string-array>
+
+    <string-array name="prikorm_array">
+        <item>example text3</item>
+        <item>example text3</item>
+    </string-array>
+
+    <string-array name="history_array">
+        <item> example text4</item>
+        <item>example text4</item>
+    </string-array>
+
+    <string-array name="advice_array">
+        <item> example text5</item>
+        <item>example text5</item>
+    </string-array>
+
+    <string-array name="main_text_size_array">
+        <item>24</item>
+        <item>18</item>
+        <item>12</item>
+    </string-array>
+</resources>
